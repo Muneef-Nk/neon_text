@@ -1,6 +1,6 @@
 name: neon_text
 description: "A Flutter package to create animated neon glowing text with customizable effects. Supports glow, pulse, and flicker animations with adjustable intensity"
-version: 0.0.4
+version: 0.0.5
 homepage: https://github.com/Muneef-Nk/
 repository: https://github.com/Muneef-Nk/neon_text
 
